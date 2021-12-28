@@ -1,5 +1,3 @@
-👋 Hi! I'm Kobe.
-
 👨‍💻 Data engineer & robotics developer
 
 🦾 Programming and working with computers in general has been a passion for quite some time
