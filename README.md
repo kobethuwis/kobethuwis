@@ -1,4 +1,4 @@
-👨‍💻 Driven data engineer & robotics developer
+👨‍💻 Driven data engineer & robotics enthusiast
 
 🦾 Programming and working with computers in general has been a passion for quite some time
 
