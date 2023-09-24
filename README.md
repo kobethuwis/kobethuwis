@@ -1,7 +1,9 @@
 🦾 Driven data engineer & robotics enthusiast
 
-Programming and working with computers in general has been a passion for quite some time. Huge fan of application-oriented development, resolving case-specific issues and deep dives into technical rabbit holes. 
+Programming and working with computers in general has been a passion for quite some time. 
 
-Like to devote my time as well to passive investing, reading sci-fi books, volunteer work, financial planning, watching mystery movies & (cyber)security.
+Switching views, working on agile projects and deep dives into technical rabbit holes often motivate me to study new topics, tackle hard challenges and deliver results.
+
+I like to devote my time as well to passive investing, sci-fi books, volunteer work, cinema & movies, financial planning & (cyber)-security.
 
 Take a look at my [personal portfolio](https://kobethuwis.com) for any previous projects, how-to articles or personal pieces.
