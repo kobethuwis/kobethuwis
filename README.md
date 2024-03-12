@@ -1,9 +1,11 @@
-🦾 Driven data engineer & robotics enthusiast
+🦾 I'm Kobe, a data engineer who loves computers and programming. I am always excited to analyse issues and dive into technical rabbit holes. 
 
-Programming and working with computers in general has been a passion for quite some time. 
+I design and implement data solutions that directly benefit the business. As a cloud architect, I am proficient in developing cloud-based solutions that are both scalable and secure.
 
-Switching views, working on agile projects and deep dives into technical rabbit holes often motivate me to study new topics, tackle hard challenges and deliver results.
+I'm also passionate about AI and micro-robotics. I always look for ways to incorporate these technologies into my day-to-day & projects to drive innovation and efficiency.
 
-I like to devote my time as well to passive investing, sci-fi books, volunteer work, cinema & movies, financial planning & (cyber)-security.
+If there is one thing I enjoy more than computers, it is working with people. I like to work in different teams or fields. I also enjoy organising knowledge-sharing sessions & coaching colleagues.
+
+When I am not working, I like to spend my time on passive investing, reading sci-fi books and volunteer work.
 
 Take a look at my [personal portfolio](https://kobethuwis.com) for any previous projects, how-to articles or personal pieces.
